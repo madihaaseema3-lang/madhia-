@@ -13,3 +13,8 @@ java code for reversing an array in place
 java code for 2nd largest element
 write a java code to create hierarchy with class animal subclass dog,forrabbit
 .write java code for method overidding a string where each class inherts to string from object and overiddibg that to see how the object can be printed
+write a java code to implement the abraction by using shapes and 2 sub classes which can have the fuctionality in different ways
+17.java code for managing a To Do list adding removing and iterating over a simple arraylist of tasks
+18.java code for accessing and removing elements in a linkedlist by using its operations
+19.write a java code by using try,catch,finally,block for any arthimetic exception or array index out of bound exception
+20.java code for finding the largest element in an array

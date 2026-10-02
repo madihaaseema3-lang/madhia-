@@ -9,3 +9,4 @@ write a java code by spliting a sentences into word and then rebuilt it in new f
 java code for fibonacci with recursion
 write java code for selection sort and insertion sort
 java code for counting vowels in string 
+java code for reversing an array in place
